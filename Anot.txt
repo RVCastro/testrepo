@@ -1,0 +1,26 @@
+Bibliotecas em Python
+
+1- Scientific computing lybraries
+Pandas - Data Frames
+NumPy - Arrays and matrices
+
+2- Visualization tools
+Matplotlib
+Seaborn
+
+3- Machine Learning
+Scikit-learn
+Keras - deeplearning
+TensorFlow - deeplearning
+PyTorch - deeplearning
+
+Apache Spark (cluster
+
+
+
+R Lybraries
+GGplot2
+Keras
+TensorFlow
+
+
